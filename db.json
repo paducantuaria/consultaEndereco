@@ -1,35 +1,7 @@
 {
-  "aluno": [
-    { 
-      "matricula": "0123456WEB",
-      "nome": "Aluno Teste Json 1",
-      "cpf": "12345678901",
-      "curso": "Tecnólogo em Sistemas para Internet",
-      "siglaCurso": "TSI",
-      "tipo": "GRADUACAO",
-      "campus": "Maracanã"
-    },
-    { 
-      "matricula": "1111111BCC", 
-      "nome": "Aluno Teste Json 2",
-      "cpf": "12345678902",
-      "curso": "Bacharelado em Ciências da Computação",
-      "siglaCurso": "BCC",
-      "tipo": "GRADUACAO",
-      "campus": "Maracanã"
-    },
-    { 
-      "matricula": "2222222ADM",
-      "nome": "Aluno Teste Json 3",
-      "cpf": "12345678903",
-      "curso": "Administração",
-      "siglaCurso": "ADMV",
-      "tipo": "GRADUACAO",
-      "campus": "Itaguaí"
-    }
-  ],
-  "professor": [
-    { "siape": 1, "nome": "Professor 1" },
-    { "siape": 2, "nome": "Professor 2" }
-  ]
+  "numeroCEP":"20551125",
+  "uf":"RJ",
+  "municipio":"Rio de Janeiro",  
+  "bairro":"Vila Isabel", 
+  "logradouro":"Rua Sousa Franco",  
 }

@@ -1,7 +1,11 @@
-{
-  "numeroCEP":"20551125",
-  "uf":"RJ",
-  "municipio":"Rio de Janeiro",  
-  "bairro":"Vila Isabel", 
-  "logradouro":"Rua Sousa Franco",  
+{ 
+  "Endereco" : [
+    {
+      "numeroCEP":"20551125",
+      "uf":"RJ",
+      "municipio":"Rio de Janeiro",  
+      "bairro":"Vila Isabel", 
+      "logradouro":"Rua Sousa Franco",  
+    }
+  ]
 }
